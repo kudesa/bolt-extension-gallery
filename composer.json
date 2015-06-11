@@ -34,4 +34,5 @@
       "dev-master" : "dev-develop"
 		}
 	}
+  "minimum-stability":"dev"
 }
